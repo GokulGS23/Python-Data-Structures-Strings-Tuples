@@ -16,5 +16,5 @@ Data Structures - Strings and Tuples
 
 ## Tools Used
 - Python
-- Jupyter Notebook
+- Jupyter Notebook.
 
